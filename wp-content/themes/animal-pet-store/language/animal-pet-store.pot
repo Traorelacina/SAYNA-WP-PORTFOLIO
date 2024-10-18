@@ -1,0 +1,1123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Animal Pet Store\n"
+"Last-Translator: \n"
+"Language-Team: ThemesPride <support@themespride.com>\n"
+"Language: English\n"
+"MIME-Version: 0.1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 0.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: icon-changer.php:24
+msgctxt "placeholder"
+msgid "Search Icon"
+msgstr ""
+
+#: about-theme.php:39
+msgid "About Theme"
+msgstr ""
+
+#: about-theme.php:65
+msgid "Theme Info"
+msgstr ""
+
+#: about-theme.php:67
+msgid "View Demo"
+msgstr ""
+
+#: about-theme.php:69
+msgid "Theme Instructions"
+msgstr ""
+
+#: about-theme.php:71
+msgid "Rate this theme"
+msgstr ""
+
+#: about-theme.php:73
+msgid "Upgrade to pro"
+msgstr ""
+
+#: about-theme.php:83
+msgid "Secondary menu"
+msgstr ""
+
+#: about-theme.php:84
+msgid "About"
+msgstr ""
+
+#: about-theme.php:86
+msgid "Compare free Vs Pro"
+msgstr ""
+
+#: about-theme.php:88
+msgid "Changelog"
+msgstr ""
+
+#: about-theme.php:102
+msgid "Return to Updates"
+msgstr ""
+
+#: about-theme.php:102
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: about-theme.php:105
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: about-theme.php:105
+msgid "Go to Dashboard"
+msgstr ""
+
+#: about-theme.php:119
+msgid "Theme Customizer"
+msgstr ""
+
+#: about-theme.php:120
+msgid "All Theme Options are available via Customize screen."
+msgstr ""
+
+#: about-theme.php:121
+msgid "Customize"
+msgstr ""
+
+#: about-theme.php:125
+msgid "Got theme support question?"
+msgstr ""
+
+#: about-theme.php:126
+msgid ""
+"Get genuine support from genuine people. Whether it's customization or "
+"compatibility, our seasoned developers deliver tailored solutions to your "
+"queries."
+msgstr ""
+
+#: about-theme.php:127
+msgid "Support Forum"
+msgstr ""
+
+#: about-theme.php:131
+msgid "Upgrade To Premium With Straight 20% OFF."
+msgstr ""
+
+#: about-theme.php:132
+msgid "Get our amazing WordPress theme with exclusive 20% off use the coupon"
+msgstr ""
+
+#: about-theme.php:133
+msgid "GETPro20"
+msgstr ""
+
+#: about-theme.php:149
+msgid "View changelog below:"
+msgstr ""
+
+#: about-theme.php:217
+msgid "View Free vs Pro Table below:"
+msgstr ""
+
+#: about-theme.php:222
+msgid "Free Theme"
+msgstr ""
+
+#: about-theme.php:223
+msgid "Pro Theme"
+msgstr ""
+
+#: about-theme.php:228
+msgid "Theme Demo Set Up"
+msgstr ""
+
+#: about-theme.php:233
+msgid "Additional Templates, Color options and Fonts"
+msgstr ""
+
+#: about-theme.php:238
+msgid "Included Demo Content"
+msgstr ""
+
+#: about-theme.php:243
+msgid "Section Ordering"
+msgstr ""
+
+#: about-theme.php:248
+msgid "Multiple Sections"
+msgstr ""
+
+#: about-theme.php:253
+msgid "Additional Plugins"
+msgstr ""
+
+#: about-theme.php:258
+msgid "Premium Technical Support"
+msgstr ""
+
+#: about-theme.php:263
+msgid "Access to Support Forums"
+msgstr ""
+
+#: about-theme.php:268
+msgid "Free updates"
+msgstr ""
+
+#: about-theme.php:273
+msgid "Unlimited Domains"
+msgstr ""
+
+#: about-theme.php:278
+msgid "Responsive Design"
+msgstr ""
+
+#: about-theme.php:283
+msgid "Live Customizer"
+msgstr ""
+
+#: about-theme.php:290
+msgid "Go For Premium"
+msgstr ""
+
+#: custom-header.php:27
+msgid "Default Header Image"
+msgstr ""
+
+#: customizer.php:31
+msgid "Custom Home page"
+msgstr ""
+
+#: customizer.php:32
+msgid "Description of what this panel does."
+msgstr ""
+
+#: customizer.php:37
+msgid "TP General Option"
+msgstr ""
+
+#: customizer.php:47
+msgid "Body Layout Setting"
+msgstr ""
+
+#: customizer.php:48
+msgid ""
+"This option work for complete body, if you want to set the complete website "
+"in container."
+msgstr ""
+
+#: customizer.php:51 customizer.php:68 customizer.php:88 customizer.php:105
+msgid "Full"
+msgstr ""
+
+#: customizer.php:52
+msgid "Container"
+msgstr ""
+
+#: customizer.php:53
+msgid "Container Fluid"
+msgstr ""
+
+#: customizer.php:64
+msgid "Post Sidebar Position"
+msgstr ""
+
+#: customizer.php:65
+msgid ""
+"This option work for blog page, blog single page, archive page and search "
+"page."
+msgstr ""
+
+#: customizer.php:69 customizer.php:89 customizer.php:106 customizer.php:899 
+#: customizer.php:1076
+msgid "Left"
+msgstr ""
+
+#: customizer.php:70 customizer.php:90 customizer.php:107 customizer.php:898 
+#: customizer.php:1077
+msgid "Right"
+msgstr ""
+
+#: customizer.php:71
+msgid "Three Columns"
+msgstr ""
+
+#: customizer.php:72
+msgid "Four Columns"
+msgstr ""
+
+#: customizer.php:73
+msgid "Grid Layout"
+msgstr ""
+
+#: customizer.php:84
+msgid "Single Post Sidebar Position"
+msgstr ""
+
+#: customizer.php:85
+msgid "This option work for single blog page"
+msgstr ""
+
+#: customizer.php:101
+msgid "Page Sidebar Position"
+msgstr ""
+
+#: customizer.php:102
+msgid "This option work for pages."
+msgstr ""
+
+#: customizer.php:116
+msgid "Show / Hide Sticky Header"
+msgstr ""
+
+#: customizer.php:218
+msgid "TP Typography Option"
+msgstr ""
+
+#: customizer.php:230
+msgid "heading Fonts"
+msgstr ""
+
+#: customizer.php:242
+msgid "Body Fonts"
+msgstr ""
+
+#: customizer.php:249
+msgid "TP Preloader Option"
+msgstr ""
+
+#: customizer.php:259
+msgid "Show / Hide Preloader Option"
+msgstr ""
+
+#: customizer.php:269
+msgid "Preloader First Ring Color"
+msgstr ""
+
+#: customizer.php:270
+msgid "It will change the complete theme preloader ring 1 color in one click."
+msgstr ""
+
+#: customizer.php:279
+msgid "Preloader Second Ring Color"
+msgstr ""
+
+#: customizer.php:280
+msgid "It will change the complete theme preloader ring 2 color in one click."
+msgstr ""
+
+#: customizer.php:289
+msgid "Preloader Background Color"
+msgstr ""
+
+#: customizer.php:290
+msgid "It will change the complete theme preloader bg color in one click."
+msgstr ""
+
+#: customizer.php:297
+msgid "TP Color Option"
+msgstr ""
+
+#: customizer.php:306
+msgid "Themem first Color"
+msgstr ""
+
+#: customizer.php:307
+msgid "It will change the complete theme color in one click."
+msgstr ""
+
+#: customizer.php:314
+msgid "TP Blog Option"
+msgstr ""
+
+#: customizer.php:323
+msgid "Meta Order"
+msgstr ""
+
+#: customizer.php:324
+msgid ""
+"Drag & Drop post items to re-arrange the order and also hide and show items "
+"as per the need by clicking on the eye icon."
+msgstr ""
+
+#: customizer.php:327
+msgid "date"
+msgstr ""
+
+#: customizer.php:328
+msgid "author"
+msgstr ""
+
+#: customizer.php:329
+msgid "comment"
+msgstr ""
+
+#: customizer.php:330
+msgid "category"
+msgstr ""
+
+#: customizer.php:341
+msgid "Edit Excerpt Limit"
+msgstr ""
+
+#: customizer.php:351
+msgid "Read More"
+msgstr ""
+
+#: customizer.php:355
+msgid "Edit Button Text"
+msgstr ""
+
+#: customizer.php:365
+msgid "Show / Hide Read More Button"
+msgstr ""
+
+#: customizer.php:381
+msgid "Show / Hide Tags Option"
+msgstr ""
+
+#: customizer.php:396
+msgid "Show / Hide Category Option"
+msgstr ""
+
+#: customizer.php:412
+msgid "Show / Hide Comment Form"
+msgstr ""
+
+#: customizer.php:425 customizer.php:431 customizer.php:949
+msgid "Show / Hide Related Post"
+msgstr ""
+
+#: customizer.php:437
+msgid "Related Posts"
+msgstr ""
+
+#: customizer.php:441
+msgid "Edit Section Title"
+msgstr ""
+
+#: customizer.php:453
+msgid "Related Post Per Page"
+msgstr ""
+
+#: customizer.php:470
+msgid "Related Post Per Row"
+msgstr ""
+
+#: customizer.php:485
+msgid "Post Layout"
+msgstr ""
+
+#: customizer.php:488
+msgid "Media-Content"
+msgstr ""
+
+#: customizer.php:489
+msgid "Content-Media"
+msgstr ""
+
+#: customizer.php:495
+msgid "Menu Typography"
+msgstr ""
+
+#: customizer.php:507
+msgid "Menu Fonts"
+msgstr ""
+
+#: customizer.php:518
+msgid "Font Weight"
+msgstr ""
+
+#: customizer.php:522
+msgid "100"
+msgstr ""
+
+#: customizer.php:523
+msgid "200"
+msgstr ""
+
+#: customizer.php:524
+msgid "300"
+msgstr ""
+
+#: customizer.php:525
+msgid "400"
+msgstr ""
+
+#: customizer.php:526
+msgid "500"
+msgstr ""
+
+#: customizer.php:527
+msgid "600"
+msgstr ""
+
+#: customizer.php:528
+msgid "700"
+msgstr ""
+
+#: customizer.php:529
+msgid "800"
+msgstr ""
+
+#: customizer.php:530
+msgid "900"
+msgstr ""
+
+#: customizer.php:540
+msgid "Menu Text Transform"
+msgstr ""
+
+#: customizer.php:543
+msgid "Uppercase"
+msgstr ""
+
+#: customizer.php:544
+msgid "Lowercase"
+msgstr ""
+
+#: customizer.php:545
+msgid "Capitalize"
+msgstr ""
+
+#: customizer.php:554
+msgid "Font Size"
+msgstr ""
+
+#: customizer.php:564
+msgid "Header Details"
+msgstr ""
+
+#: customizer.php:566
+msgid "Add your contact details"
+msgstr ""
+
+#: customizer.php:575
+msgid "Topbar Text"
+msgstr ""
+
+#: customizer.php:586
+msgid "Show / Hide Search Option"
+msgstr ""
+
+#: customizer.php:598
+msgid "Show / Hide User Option"
+msgstr ""
+
+#: customizer.php:610
+msgid "Show / Hide Cart Option"
+msgstr ""
+
+#: customizer.php:622
+msgid "Show / Hide Currency Switcher"
+msgstr ""
+
+#: customizer.php:634
+msgid "Show / Hide Language Translator Option"
+msgstr ""
+
+#: customizer.php:648
+msgid "Add Category Text"
+msgstr ""
+
+#: customizer.php:660
+msgid "Add Category Limit"
+msgstr ""
+
+#: customizer.php:666
+msgid "Slider Section"
+msgstr ""
+
+#: customizer.php:677
+msgid "Show / Hide slider"
+msgstr ""
+
+#: customizer.php:688 customizer.php:751
+msgid "Add short Heading"
+msgstr ""
+
+#: customizer.php:701
+msgid "Select Slide Image Page"
+msgstr ""
+
+#: customizer.php:702
+msgid "Image Size ( 1835 x 700 ) px"
+msgstr ""
+
+#: customizer.php:713 customizer.php:938
+msgid "Show / Hide Slider Button"
+msgstr ""
+
+#: customizer.php:729
+msgid "Product Section"
+msgstr ""
+
+#: customizer.php:740 customizer.php:767
+msgid "Show / Hide Product Section"
+msgstr ""
+
+#: customizer.php:761
+msgid "Add Heading"
+msgstr ""
+
+#: customizer.php:777
+msgid "Select Product Page"
+msgstr ""
+
+#: customizer.php:810
+msgid "Select Product Category"
+msgstr ""
+
+#: customizer.php:816
+msgid "Footer Text"
+msgstr ""
+
+#: customizer.php:817
+msgid "Add copyright text."
+msgstr ""
+
+#: customizer.php:826
+msgid "Copyright Text"
+msgstr ""
+
+#: customizer.php:836
+msgid "Footer Widget Columns"
+msgstr ""
+
+#: customizer.php:851
+msgid "Footer Widget Background Color"
+msgstr ""
+
+#: customizer.php:852
+msgid "It will change the complete footer widget backgorund color."
+msgstr ""
+
+#: customizer.php:861
+msgid "Footer Widget Background Image"
+msgstr ""
+
+#: customizer.php:870 customizer.php:927
+msgid "Show / Hide Return to header"
+msgstr ""
+
+#: customizer.php:881
+msgid "Scroll to top Icon"
+msgstr ""
+
+#: customizer.php:894
+msgid "Scroll to top Position"
+msgstr ""
+
+#: customizer.php:895
+msgid "This option work for scroll to top"
+msgstr ""
+
+#: customizer.php:900
+msgid "Center"
+msgstr ""
+
+#: customizer.php:916
+msgid "Mobile Responsive media"
+msgstr ""
+
+#: customizer.php:917
+msgid "Control will not function if the toggle in the main settings is off."
+msgstr ""
+
+#: customizer.php:962
+msgid "Show / Hide Site Title"
+msgstr ""
+
+#: customizer.php:972
+msgid "Site Title Font Size in PX"
+msgstr ""
+
+#: customizer.php:988
+msgid "Show / Hide Site Tagline"
+msgstr ""
+
+#: customizer.php:1000
+msgid "Site Tagline Font Size in PX"
+msgstr ""
+
+#: customizer.php:1015
+msgid "Here You Can Customize Your Logo Size"
+msgstr ""
+
+#: customizer.php:1026
+msgid "Logo Layout Settings"
+msgstr ""
+
+#: customizer.php:1027
+msgid ""
+"Here you have two options 1. Logo and Site tite in differnt line. 2. Logo "
+"and Site title in same line."
+msgstr ""
+
+#: customizer.php:1030
+msgid "Different Line"
+msgstr ""
+
+#: customizer.php:1031
+msgid "Same Line"
+msgstr ""
+
+#: customizer.php:1041
+msgid "Product Per Row"
+msgstr ""
+
+#: customizer.php:1050
+msgid "Product Per Page"
+msgstr ""
+
+#: customizer.php:1060
+msgid "Show / Hide Shop Page Sidebar"
+msgstr ""
+
+#: customizer.php:1072
+msgid "Sale Badge Position"
+msgstr ""
+
+#: customizer.php:1073
+msgid "This option work for Archieve Products"
+msgstr ""
+
+#: customizer.php:1087
+msgid "Show / Hide Product Page Sidebar"
+msgstr ""
+
+#: customizer.php:1098
+msgid "Show / Hide related product"
+msgstr ""
+
+#: customizer.php:1105
+msgid "404 Page"
+msgstr ""
+
+#: customizer.php:1109
+msgid "Oops! That page cant be found."
+msgstr ""
+
+#: customizer.php:1113
+msgid "Edit Title"
+msgstr ""
+
+#: customizer.php:1118
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: customizer.php:1122
+msgid "Edit Text"
+msgstr ""
+
+#: customizer.php:1154
+msgid "Animal Pet Store Pro"
+msgstr ""
+
+#: customizer.php:1163
+msgid "Click to View Site"
+msgstr ""
+
+#: customizer.php:1241
+msgid "Upgrade Pro"
+msgstr ""
+
+#: customizer.php:1253
+msgid "Theme Documentation"
+msgstr ""
+
+#: customizer.php:1254
+msgid "Click Here"
+msgstr ""
+
+#: customizer.php:1268
+msgid "View Site"
+msgstr ""
+
+#. Name of the template
+#: front-page.php:2
+msgid "Custom Home Page"
+msgstr ""
+
+#: footer-widgets.php:22
+msgid "Footer"
+msgstr ""
+
+#: site-branding.php:82
+msgid "Logout"
+msgstr ""
+
+#: site-branding.php:84
+msgid "Login"
+msgstr ""
+
+#: site-branding.php:92
+msgid "Shopping Cart"
+msgstr ""
+
+#: site-branding.php:98
+msgid "Wishlist"
+msgstr ""
+
+#: shop-product.php:37
+msgid "Shop Now"
+msgstr ""
+
+#: slider.php:44
+msgid "Shop Now"
+msgstr ""
+
+#: slider.php:58
+msgid "Previous"
+msgstr ""
+
+#: slider.php:62
+msgid "Next"
+msgstr ""
+
+#: site-nav.php:10
+msgid "Open Button"
+msgstr ""
+
+#: site-nav.php:13
+msgid "Close Button"
+msgstr ""
+
+#: site-nav.php:14
+msgid "Top Menu"
+msgstr ""
+
+#: content.php:33 content.php:71 content.php:71
+msgid "0 Comments"
+msgstr ""
+
+#: content.php:33 content.php:71
+msgid "% Comments"
+msgstr ""
+
+#: content.php:42 content.php:80 content.php:80
+msgid "Read More"
+msgstr ""
+
+#: content-audio.php:46 content-audio.php:91 content-audio.php:91
+msgid "0 Comments"
+msgstr ""
+
+#: content-audio.php:46 content-audio.php:91
+msgid "% Comments"
+msgstr ""
+
+#: content-audio.php:55 content-audio.php:100 content-audio.php:100
+msgid "Read More"
+msgstr ""
+
+#: content-gallery.php:52 content-gallery.php:103 content-gallery.php:103
+msgid "0 Comments"
+msgstr ""
+
+#: content-gallery.php:52 content-gallery.php:103
+msgid "% Comments"
+msgstr ""
+
+#: content-gallery.php:61 content-gallery.php:112 content-gallery.php:112
+msgid "Read More"
+msgstr ""
+
+#: content-grid.php:28
+msgid "0 Comments"
+msgstr ""
+
+#: content-grid.php:28
+msgid "% Comments"
+msgstr ""
+
+#: content-grid.php:37
+msgid "Read More"
+msgstr ""
+
+#: content-image.php:40 content-image.php:88 content-image.php:88
+msgid "0 Comments"
+msgstr ""
+
+#: content-image.php:40 content-image.php:88
+msgid "% Comments"
+msgstr ""
+
+#: content-image.php:49 content-image.php:97 content-image.php:97
+msgid "Read More"
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#. %s: Post editor URL.
+#: content-none.php:22
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-video.php:47 content-video.php:92 content-video.php:92
+msgid "0 Comments"
+msgstr ""
+
+#: content-video.php:47 content-video.php:92
+msgid "% Comments"
+msgstr ""
+
+#: content-video.php:56 content-video.php:101 content-video.php:101
+msgid "Read More"
+msgstr ""
+
+#: related-post.php:21
+msgid "Related Posts"
+msgstr ""
+
+#: related-post.php:36
+msgid "Read More"
+msgstr ""
+
+#: single-post.php:19
+msgid "0 Comments"
+msgstr ""
+
+#: single-post.php:19
+msgid "% Comments"
+msgstr ""
+
+#: single-post.php:49
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+
+#: single-post.php:54
+msgid "Next:"
+msgstr ""
+
+#: single-post.php:56
+msgid "Previous:"
+msgstr ""
+
+#: form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: form-checkout.php:52
+msgid "Your order"
+msgstr ""
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: archive.php:57 archive.php:95 archive.php:132 archive.php:169 
+#: archive.php:208 archive.php:247 archive.php:285
+msgid "Previous page"
+msgstr ""
+
+#: archive.php:58 archive.php:96 archive.php:133 archive.php:170 
+#: archive.php:209 archive.php:248 archive.php:286
+msgid "Next page"
+msgstr ""
+
+#: archive.php:59 archive.php:97 archive.php:134 archive.php:171 
+#: archive.php:210 archive.php:249 archive.php:287
+msgid "Page"
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:34
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:60
+msgid "Previous"
+msgstr ""
+
+#: comments.php:61
+msgid "Next"
+msgstr ""
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:27
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:188
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:190 functions.php:210
+msgid ""
+"Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: functions.php:198
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:200
+msgid "Add widgets here to appear in your sidebar on pages."
+msgstr ""
+
+#: functions.php:208
+msgid "Sidebar 3"
+msgstr ""
+
+#: functions.php:218
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:220 functions.php:230 functions.php:240 functions.php:250
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:228
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:238
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:248
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:505
+msgid "https://www.themespride.com/products/free-pet-store-wordpress-theme"
+msgstr ""
+
+#. 1: welcome page link starting html tag, 2: welcome page link ending html tag.
+#: functions.php:536
+#, php-format
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr ""
+
+#: functions.php:540
+msgid "Click here to get started with the theme set-up."
+msgstr ""
+
+#: functions.php:542
+msgid "Get started"
+msgstr ""
+
+#: header.php:39
+msgid "Skip to content"
+msgstr ""
+
+#: index.php:13
+msgid "Blog Post"
+msgstr ""
+
+#: index.php:50 index.php:88 index.php:124 index.php:160 index.php:199 
+#: index.php:238 index.php:276
+msgid "Previous page"
+msgstr ""
+
+#: index.php:51 index.php:89 index.php:125 index.php:161 index.php:200 
+#: index.php:239 index.php:277
+msgid "Next page"
+msgstr ""
+
+#: index.php:52 index.php:90 index.php:126 index.php:162 index.php:201 
+#: index.php:240 index.php:278
+msgid "Page"
+msgstr ""
+
+#: page.php:29 page.php:51 page.php:72
+msgid "Pages:"
+msgstr ""
+
+#. %s: search term
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:23
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:48 search.php:88 search.php:127 search.php:166 search.php:207 
+#: search.php:247
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: search.php:59 search.php:99 search.php:138 search.php:177 search.php:217 
+#: search.php:258 search.php:296
+msgid "Previous page"
+msgstr ""
+
+#: search.php:60 search.php:100 search.php:139 search.php:178 search.php:218 
+#: search.php:259 search.php:297
+msgid "Next page"
+msgstr ""
+
+#: search.php:61 search.php:101 search.php:140 search.php:179 search.php:219 
+#: search.php:260 search.php:298
+msgid "Page"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:9
+msgid "Blog Sidebar"
+msgstr ""
+
+#: sidebar.php:12
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr ""
+
+#: sidebar.php:26
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:33
+msgid "Tag Cloud"
+msgstr ""
+
+#: single.php:44 single.php:69 single.php:93 single.php:116
+msgid "Previous page"
+msgstr ""
+
+#: single.php:45 single.php:70 single.php:94 single.php:117
+msgid "Next page"
+msgstr ""
+
+#: single.php:46 single.php:71 single.php:95 single.php:118
+msgid "Page"
+msgstr ""
